@@ -1,0 +1,5961 @@
+[
+  {
+    "compound_name": "1-2-4-Trichlorobenzene",
+    "smiles": "Clc1ccc(Cl)c(Cl)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 3,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 4,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Bogaards et al.; Toxicol. Appl. Pharmacol., 1995, 132(1), 44-52."
+  },
+  {
+    "compound_name": "1-Nitropyrene",
+    "smiles": "O=[N+]([O-])c1ccc2ccc3cccc4ccc1c2c34",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "nitrogen",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Chae et al.; Cancer Res., 1999, 59(7), 1473-1480."
+  },
+  {
+    "compound_name": "2-Acetylaminofluorene",
+    "smiles": "CC(=O)Nc1ccc2c(c1)Cc1ccccc1-2",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "nitrogen",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 6,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "McManus et al., Cancer Res., 1990, 50(11), 3367-3376."
+  },
+  {
+    "compound_name": "2-Acetylbenzothiophene",
+    "smiles": "CC(=O)c1cc2ccccc2s1",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Joshi et al., Chem. Res. Toxicol., 2004, 17(2), 137-143"
+  },
+  {
+    "compound_name": "2-Amino-3-8-Dimethylimidazo-4-5-f-Quinoxaline",
+    "smiles": "Cc1cnc2ccc3c(nc(N)n3C)c2n1",
+    "som_breakdown": [
+      {
+        "atom_index": 15,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Hammons et al., Carcinogenesis, 1997, 18(4), 851-854."
+  },
+  {
+    "compound_name": "2-Amino-3-Methylimidazo-4-5-f-Quinoline",
+    "smiles": "Cn1c(N)nc2c3cccnc3ccc21",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Hammons et al., Carcinogenesis, 1997, 18(4), 851-854."
+  },
+  {
+    "compound_name": "2-Naphthylamine",
+    "smiles": "Nc1ccc2ccccc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Butler et al., Proc. Natl Acad. Sci., 1989, 86(20), 7696-7700."
+  },
+  {
+    "compound_name": "2-Nitropyrene",
+    "smiles": "O=[N+]([O-])c1cc2ccc3cccc4ccc(c1)c2c34",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 6,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "nitrogen",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Chae et al., Cancer Res., 1999, 59(7), 1473-1480."
+  },
+  {
+    "compound_name": "(6S,19S)-2-Oxo-Clopidogrel",
+    "smiles": "COC(=O)[C@H](c1ccccc1Cl)[N@@H+]1CC[C@@H]2SC(=O)C=C2C1",
+    "som_breakdown": [
+      {
+        "atom_index": 21,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Dansette et al., Chem. Res. Toxicol., 2009, 22(2), 369-373."
+  },
+  {
+    "compound_name": "(6S,19R)-2-Oxo-Clopidogrel",
+    "smiles": "COC(=O)[C@H](c1ccccc1Cl)[N@@H+]1CC[C@H]2SC(=O)C=C2C1",
+    "som_breakdown": [
+      {
+        "atom_index": 21,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Dansette et al., Chem. Res. Toxicol., 2009, 22(2), 369-373."
+  },
+  {
+    "compound_name": "(15R)-2-Oxo-Ticlopidine",
+    "smiles": "O=C1C=C2C[N@H+](Cc3ccccc3Cl)CC[C@H]2S1",
+    "som_breakdown": [
+      {
+        "atom_index": 17,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Dansette et al., Chem. Res. Toxicol., 2009, 22(2), 369-373."
+  },
+  {
+    "compound_name": "(15S)-2-Oxo-Ticlopidine",
+    "smiles": "O=C1C=C2C[N@H+](Cc3ccccc3Cl)CC[C@@H]2S1",
+    "som_breakdown": [
+      {
+        "atom_index": 17,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Dansette et al., Chem. Res. Toxicol., 2009, 22(2), 369-373."
+  },
+  {
+    "compound_name": "3-Cyano-7-Ethoxycoumarin",
+    "smiles": "CCOc1ccc2cc(C#N)c(=O)oc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Ghosal et al., Biopharm. Drug Disp., 2003, 24(9), 375-384."
+  },
+  {
+    "compound_name": "3-Cyano-7-Methoxycoumarin",
+    "smiles": "COc1ccc2cc(C#N)c(=O)oc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Stresser et al., Drug Metab. Dispos., 2002, 30(7), 845-852."
+  },
+  {
+    "compound_name": "3-Methylindole",
+    "smiles": "Cc1c[nH]c2ccccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 2,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Thornton-Manning et al., J. Pharmacol. Exp. Ther., 1999, 276(1), 21-29."
+  },
+  {
+    "compound_name": "(6R)-3-O-Methylfluorescein",
+    "smiles": "COc1ccc2c(c1)Oc1cc(O)ccc1[C@@]21OC(=O)c2ccccc21",
+    "som_breakdown": [
+      {
+        "atom_index": 26,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Sudsakorn et al., Drug Metab. Dispos., 2007, 35(6), 841-847"
+  },
+  {
+    "compound_name": "(6S)-3-O-Methylfluorescein",
+    "smiles": "COc1ccc2c(c1)Oc1cc(O)ccc1[C@]21OC(=O)c2ccccc21",
+    "som_breakdown": [
+      {
+        "atom_index": 26,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Sudsakorn et al., Drug Metab. Dispos., 2007, 35(6), 841-847"
+  },
+  {
+    "compound_name": "4-Aminobiphenyl",
+    "smiles": "Nc1ccc(-c2ccccc2)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Hammons et al., Carcinogenesis, 1997, 18(4), 851-854"
+  },
+  {
+    "compound_name": "4-Chloro-7-Ethoxycoumarin",
+    "smiles": "CCOc1ccc2c(Cl)cc(=O)oc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Ekins et al., J. Pharmacol. Exp. Ther., 1998, 286(3), 1253-1259."
+  },
+  {
+    "compound_name": "4-Chloromethyl-7-Ethoxycoumarin",
+    "smiles": "CCOc1ccc2c(CCl)cc(=O)oc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Ekins et al., J. Pharmacol. Exp. Ther., 1998, 286(3), 1253-1259."
+  },
+  {
+    "compound_name": "4-Nitroanisole",
+    "smiles": "COc1ccc([N+](=O)[O-])cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Jones et al., Xenobiotica, 1997, 27(10), 1025-1037"
+  },
+  {
+    "compound_name": "4-Nitropyrene",
+    "smiles": "O=[N+]([O-])c1cc2cccc3ccc4cccc1c4c32",
+    "som_breakdown": [
+      {
+        "atom_index": 9,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Chae et al., Cancer. Res., 1999, 59(7), 1473-1480."
+  },
+  {
+    "compound_name": "5-Methylchrysene",
+    "smiles": "Cc1cc2ccccc2c2ccc3ccccc3c12",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Koehl et al., Cancer Res., 1996, 56(2), 316-324."
+  },
+  {
+    "compound_name": "6-Aminochrysene",
+    "smiles": "Nc1cc2c3ccccc3ccc2c2ccccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "nitrogen",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Koehl et al., Cancer Res., 1996, 56(2), 316-324.\nYamazaki et al., Carcinogenesis, 1993, 14(7), 1271-1278."
+  },
+  {
+    "compound_name": "6-Nitrochrysene",
+    "smiles": "O=[N+]([O-])c1cc2c3ccccc3ccc2c2ccccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 2,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Chae et al.; Cancer Res., 1993, 53(9), 2028-2034."
+  },
+  {
+    "compound_name": "6-Methylchrysene",
+    "smiles": "Cc1cc2c3ccccc3ccc2c2ccccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 16,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Koehl et al., Cancer Res., 1996, 56(2), 316-324."
+  },
+  {
+    "compound_name": "7-Benzyloxyquinoline",
+    "smiles": "c1ccc(COc2ccc3cccnc3c2)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Stresser et al., Drug Metab. Dispos., 2002, 30(7), 845-852."
+  },
+  {
+    "compound_name": "7-Benzyloxyresorufin",
+    "smiles": "O=c1ccc2nc3ccc(OCc4ccccc4)cc3oc-2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 17,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Niwa et al., Xenobiotica, 2003, 33(7), 717-729."
+  },
+  {
+    "compound_name": "7-Benzyloxy-4-Trifluoromethylcoumarin",
+    "smiles": "O=c1cc(C(F)(F)F)c2ccc(OCc3ccccc3)cc2o1",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Donato et al., Drug Metab. Dispos., 2004, 32(7), 699-706."
+  },
+  {
+    "compound_name": "7-Ethoxycoumarin",
+    "smiles": "CCOc1ccc2ccc(=O)oc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "sp2 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Kim et al., FEBS J., 2006, 273(10), 2223-2231.\nShimada et al., Drug Metab. Dispos., 1999, 27(11), 1274-1280."
+  },
+  {
+    "compound_name": "7-Ethoxyresorufin",
+    "smiles": "CCOc1ccc2nc3ccc(=O)cc-3oc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 17,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Lee et al., Biochem. Pharmacol., 1991, 42(12), 2377-2385."
+  },
+  {
+    "compound_name": "7-Ethoxy-4-Trifluoromethylcoumarin",
+    "smiles": "CCOc1ccc2c(C(F)(F)F)cc(=O)oc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Code et al., Drug Metab. Dispos. 1997, 25(8), 985-993."
+  },
+  {
+    "compound_name": "7MBAC",
+    "smiles": "Cc1c2ccccc2nc2c1ccc1ccccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 2,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 10,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Roberts-Thompson et al., Cancer Res., 1995, 55(5), 1052-1059."
+  },
+  {
+    "compound_name": "7-Methoxycoumarin",
+    "smiles": "COc1ccc2ccc(=O)oc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sp2 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Kim et al., FEBS J., 2006, 273(10), 2223-2231."
+  },
+  {
+    "compound_name": "7-Methoxyresorufin",
+    "smiles": "COc1ccc2nc3ccc(=O)cc-3oc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 17,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Lee et al., Biochem. Pharmacol., 1991, 42(12), 2377-2385."
+  },
+  {
+    "compound_name": "7-Methoxy-4-Trifluoromethylcoumarin",
+    "smiles": "COc1ccc2c(C(F)(F)F)cc(=O)oc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Stresser et al., Drug Metab. Dispos., 2002, 30(7), 845-852."
+  },
+  {
+    "compound_name": "7-Pentoxyresorufin",
+    "smiles": "CCCCCOc1ccc2nc3ccc(=O)cc-3oc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 17,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Lee et al., Biochem. Pharmacol., 1991, 42(12), 2377-2385."
+  },
+  {
+    "compound_name": "(2S,3R,14R)-7Î±-Hydroxy-â8-Tetrahydrocannabinol",
+    "smiles": "CCCCCc1cc(O)c2c(c1)OC(C)(C)[C@@H]1[C@H](O)C=C(C)C[C@@H]21",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Matsunaga et al., Drug Metab. Dispos., 2000, 28(11), 1291-1296."
+  },
+  {
+    "compound_name": "9-Cis-Retinal",
+    "smiles": "CC1=C(/C=C/C(C)=C\\C=C\\C(C)=C\\C=O)C(C)(C)CCC1",
+    "som_breakdown": [
+      {
+        "atom_index": 21,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Zhang et al., Drug Metab. Dispos., 2000, 28(3), 292-297."
+  },
+  {
+    "compound_name": "13-Cis-Retinoic-Acid",
+    "smiles": "CC1=C(/C=C/C(C)=C/C=C/C(C)=C\\C(=O)[O-])C(C)(C)CCC1",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Marill et al., Biochem. Pharmacol., 2002, 63(5), 933-943."
+  },
+  {
+    "compound_name": "(7R,8S,11R,15S,18S)-17Î±-Ethinylestradiol",
+    "smiles": "C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@@]21C",
+    "som_breakdown": [
+      {
+        "atom_index": 21,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Wang et al., Drug Metab. Dispos., 2004, 32(11), 1209-1212."
+  },
+  {
+    "compound_name": "(1S,2R,3S,5S,8S)-17Î²-Estradiol",
+    "smiles": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Lee et al., Endocrinology, 2003, 144(8), 3382-3398."
+  },
+  {
+    "compound_name": "(3S,4S,5R,6S,7S)-17Î²-Estradiol-3-Methylether",
+    "smiles": "COc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@H](O)CC[C@@H]12",
+    "som_breakdown": [
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Stresser and Kupfer, Biochem. Pharmacol., 1998, 55(11), 1861-1871."
+  },
+  {
+    "compound_name": "(2S)-ABT-66193",
+    "smiles": "C[C@H](NC(N)=O)c1cc2ccccc2s1",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Machinist et al., Drug Metab. Dispos., 1995, 23(10), 1163-1174."
+  },
+  {
+    "compound_name": "(2R)-ABT-66193",
+    "smiles": "C[C@@H](NC(N)=O)c1cc2ccccc2s1",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Machinist et al., Drug Metab. Dispos., 1995, 23(10), 1163-1174."
+  },
+  {
+    "compound_name": "(10R)-ABT-438",
+    "smiles": "C[C@H](C#Cc1ccc(Cc2ccc(F)cc2)s1)NC(N)=O",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "oxygen",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Machinist et al., Drug Metab. Dispos., 1998, 26(10), 970-976."
+  },
+  {
+    "compound_name": "(10R)-ABT-761 (Atreleuton)",
+    "smiles": "C[C@H](C#Cc1ccc(Cc2ccc(F)cc2)s1)N(O)C(N)=O",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Machinist et al., Drug Metab. Dispos., 1998, 26(10), 970-976."
+  },
+  {
+    "compound_name": "(2R)-Acenocoumarol",
+    "smiles": "CC(=O)C[C@H](c1ccc(N([O-])[O-])cc1)c1c(O)c2ccccc2oc1=O",
+    "som_breakdown": [
+      {
+        "atom_index": 21,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Thijssen et al., Drug Metab. Dispos., 2000, 28(11), 1284-1290"
+  },
+  {
+    "compound_name": "Acetaminophen",
+    "smiles": "CC(=O)Nc1ccc(O)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "oxygen",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 3,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Patten et al., Chem. Res. Toxicol., 1993, 6(4), 511-518."
+  },
+  {
+    "compound_name": "Acetanilide",
+    "smiles": "CC(=O)Nc1ccccc1",
+    "som_breakdown": [
+      {
+        "atom_index": 4,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 5,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Liu et al., Arch. Biochem. Biophys., 1991, 284(2), 400-406."
+  },
+  {
+    "compound_name": "(14S,15R)-Aflatoxin-B1",
+    "smiles": "COc1cc2c(c3oc(=O)c4c(c13)CCC4=O)[C@@H]1C=CO[C@@H]1O2",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "sp2 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 23,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "He et al., Int. J. Cancer, 2006, 118(11), 2665-2671.\nUeng et al., Chem. Res. Toxicol. 1995, 8(2), 218â225."
+  },
+  {
+    "compound_name": "Albendazole",
+    "smiles": "CCCSc1ccc2[nH]c(NC(=O)OC)nc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Rawden et al., Br. J. Clin. Pharm., 2000, 49(4), 313-322."
+  },
+  {
+    "compound_name": "All-Trans-Retinal",
+    "smiles": "CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C=O)C(C)(C)CCC1",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Zhang et al., Drug Metab Dispos., 2000, 28(3), 292-297.\nChen et al., Drug Metab. Dispos., 2000, 28(3), 315-322."
+  },
+  {
+    "compound_name": "All-Trans-Retinol",
+    "smiles": "CC1=C(/C=C/C(C)=C/C=C/C(C)=C/CO)C(C)(C)CCC1",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Chen et al., Drug Metab. Dispos., 2000, 28(3), 315-322."
+  },
+  {
+    "compound_name": "Almotriptan",
+    "smiles": "C[NH+](C)CCc1c[nH]c2ccc(CS(=O)(=O)N3CCCC3)cc12",
+    "som_breakdown": [
+      {
+        "atom_index": 15,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 16,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Salva et al., Drug Metab. Dispos., 2003, 31(4), 404-411."
+  },
+  {
+    "compound_name": "Alosetron",
+    "smiles": "Cc1[nH]cnc1CN1CCc2c(c3ccccc3n2C)C1=O",
+    "som_breakdown": [
+      {
+        "atom_index": 2,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 3,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Additional_1A2",
+    "source_reference": "Somers et al., Xenobiotica, 2007, 37(8), 832-854."
+  },
+  {
+    "compound_name": "Ametryne",
+    "smiles": "CCNc1nc(NC(C)C)nc(SC)n1",
+    "som_breakdown": [
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Lang et al., Chem. Res. Toxicol., 1997, 10(9), 1037-1044."
+  },
+  {
+    "compound_name": "Aminopyrine",
+    "smiles": "Cc1c(N(C)C)c(=O)n(-c2ccccc2)n1C",
+    "som_breakdown": [
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Niwa et al., Xenobiotica, 1999, 29(2), 187-193."
+  },
+  {
+    "compound_name": "Amiodarone",
+    "smiles": "CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCC[NH+](CC)CC)c(I)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 28,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 30,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Ohyama et al., Drug Metab. Dispos., 2000, 28(11), 1303-1310."
+  },
+  {
+    "compound_name": "Amitriptyline",
+    "smiles": "C[NH+](C)CCC=C1c2ccccc2CCc2ccccc21",
+    "som_breakdown": [
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Venkatakrishnan et al., J. Pharmacol. Exp. Ther., 2001, 297(1), 326-337.\nVenkatakrishnan et al., J. Clin. Pharmacol., 1998, 38(2), 112-21."
+  },
+  {
+    "compound_name": "AMMC",
+    "smiles": "CC[N+](C)(CC)CCc1c(C)c2ccc(OC)cc2oc1=O",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Chauret et al., Drug Metab. Dispos., 2001, 29(9), 1196-1200."
+  },
+  {
+    "compound_name": "Antipyrine",
+    "smiles": "Cc1cc(=O)n(-c2ccccc2)n1C",
+    "som_breakdown": [
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 9,
+        "atom_type": "sp2 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Engel et al., Clin. Pharmacol. Ther., 1996, 59(6), 613-623."
+  },
+  {
+    "compound_name": "Apigenin",
+    "smiles": "O=c1cc(-c2ccc(O)cc2)oc2cc(O)cc(O)c12",
+    "som_breakdown": [
+      {
+        "atom_index": 6,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 16,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Wilsher et al., Food Chem. Tox., 2017, 110, 383-394."
+  },
+  {
+    "compound_name": "(4R,9S,20R)-Aprepitant",
+    "smiles": "C[C@@H](O[C@H]1OCC[N@H+](Cc2n[nH]c(=O)[nH]2)[C@H]1c1ccc(F)cc1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 4,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 31,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 33,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Sanchez et al., Drug Metab. Dispos., 2004, 32(11), 1287-1292."
+  },
+  {
+    "compound_name": "Arachidonic-Acid",
+    "smiles": "CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)[O-]",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "sp2 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 2,
+        "atom_type": "sp2 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 3,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 4,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 6,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 22,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Rifkind et al., Arch Biochem Biophys., 1995, 320(2), 380-389.\nBylund et al., J. Pharma. Exp. Thera., 1998, 284(1), 51-60."
+  },
+  {
+    "compound_name": "(7R)-Atomoxetine",
+    "smiles": "C[NH2+]CC[C@@H](Oc1ccccc1C)c1ccccc1",
+    "som_breakdown": [
+      {
+        "atom_index": 12,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Ring et al., Drug. Metab. Dispos., 2002, 30(3), 319-323."
+  },
+  {
+    "compound_name": "Atrazine",
+    "smiles": "CCNc1nc(Cl)nc(NC(C)C)n1",
+    "som_breakdown": [
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Lang et al., Chem. Res. Toxicol., 1997, 10(9), 1037-1044."
+  },
+  {
+    "compound_name": "(20S)-Azelastine",
+    "smiles": "C[N@@H+]1CCC[C@H](n2nc(Cc3ccc(Cl)cc3)c3ccccc3c2=O)CC1",
+    "som_breakdown": [
+      {
+        "atom_index": 27,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Nakajima et al., Drug Metab. Dispos., 1999, 27(12), 1381-1391."
+  },
+  {
+    "compound_name": "(20R)-Azelastine",
+    "smiles": "C[N@H+]1CCC[C@@H](n2nc(Cc3ccc(Cl)cc3)c3ccccc3c2=O)CC1",
+    "som_breakdown": [
+      {
+        "atom_index": 27,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Nakajima et al., Drug Metab. Dispos., 1999, 27(12), 1381-1391."
+  },
+  {
+    "compound_name": "Azinphosmethyl",
+    "smiles": "COP(=S)(OC)SCn1nnc2ccccc2c1=O",
+    "som_breakdown": [
+      {
+        "atom_index": 3,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Buratti et al., Env. Toxicol. Pharmacol., 2002, 11(3-4), 181-190."
+  },
+  {
+    "compound_name": "Benzo[a]pyrene",
+    "smiles": "c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34",
+    "som_breakdown": [
+      {
+        "atom_index": 9,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 16,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Bauer et al., Chem. Res. Toxicol., 1996, 8(1), 136-142."
+  },
+  {
+    "compound_name": "Benzo[a]pyrene-7-8-diol",
+    "smiles": "Oc1ccc2c(cc3ccc4cccc5ccc2c3c45)c1O",
+    "som_breakdown": [
+      {
+        "atom_index": 19,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Kim et al., Carcinogenesis, 1998, 19(10), 1847-1853."
+  },
+  {
+    "compound_name": "Biochanin-A",
+    "smiles": "COc1ccc(-c2coc3cc(O)cc(O)c3c2=O)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Tolleson et al., J. Agric. Food Chem., 2022, 50(17), 4783-4790."
+  },
+  {
+    "compound_name": "BMAMC",
+    "smiles": "CCCC[NH2+]Cc1cc(=O)oc2cc(OC)ccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 18,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 25,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Venhorst et al., Drug Metab. Dispos., 2000, 28(12), 1524-1532."
+  },
+  {
+    "compound_name": "(4R,8S)-Bortezomib",
+    "smiles": "CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)c1cnccn1)B(O)O",
+    "som_breakdown": [
+      {
+        "atom_index": 4,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 7,
+        "atom_type": "boron",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Pekol et al., Drug Metab. Dispos., 2005, 33(6), 771-777."
+  },
+  {
+    "compound_name": "BPR0L075",
+    "smiles": "COc1ccc2c(C(=O)c3cc(OC)c(OC)c(OC)c3)c[nH]c2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 3,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 5,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Yao et al., Drug Metab. Dispos., 2007, 35(7), 1042-1049."
+  },
+  {
+    "compound_name": "Bropirimine",
+    "smiles": "Nc1nc(-c2ccccc2)c(Br)c(=O)[nH]1",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Wynalda et al., Drug Metab. Dispos., 1998, 26(10), 1048-1051."
+  },
+  {
+    "compound_name": "(12R)-Bufuralol",
+    "smiles": "CCc1cccc2cc([C@H](O)C[NH2+]C(C)(C)C)oc12",
+    "som_breakdown": [
+      {
+        "atom_index": 6,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 7,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Yamazaki et al., Mol. Pharmacol. 1994, 46(3), 568-577."
+  },
+  {
+    "compound_name": "(12S)-Bufuralol",
+    "smiles": "CCc1cccc2cc([C@@H](O)C[NH2+]C(C)(C)C)oc12",
+    "som_breakdown": [
+      {
+        "atom_index": 6,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 7,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Yamazaki et al., Mol. Pharmacol. 1994, 46(3), 568-577."
+  },
+  {
+    "compound_name": "Caffeine",
+    "smiles": "Cn1c(=O)c2c(ncn2C)n(C)c1=O",
+    "som_breakdown": [
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Lang et al., Br. J. Clin. Pharmacol., 2000, 50(4), 311-314."
+  },
+  {
+    "compound_name": "Capsaicin",
+    "smiles": "COc1cc(CNC(=O)CCCC/C=C/C(C)C)ccc1O",
+    "som_breakdown": [
+      {
+        "atom_index": 2,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 3,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 6,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Reilly et al., Chem. Res. Toxicol., 2003, 16(3), 336-349."
+  },
+  {
+    "compound_name": "Carbamazepine",
+    "smiles": "NC(=O)N1c2ccccc2C=Cc2ccccc21",
+    "som_breakdown": [
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 16,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Pearce et al., Drug Metab. Dispos., 2002, 30(11), 1170-1179."
+  },
+  {
+    "compound_name": "Carbaryl",
+    "smiles": "CNC(=O)Oc1cccc2ccccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Tang et al, Chem. Biol. Inter., 2002, 141(3), 229-241."
+  },
+  {
+    "compound_name": "Carbofuran",
+    "smiles": "CNC(=O)Oc1cccc2c1OC(C)(C)C2",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Usmani et al., Chem. Biol. Inter., 2004, 150(3), 221-232."
+  },
+  {
+    "compound_name": "(16S)-Carvedilol",
+    "smiles": "COc1ccccc1OCC[NH2+]C[C@H](O)COc1cccc2[nH]c3ccccc3c12",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 30,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Oldham and Clarke, Drug Metab. Dispos., 1997, 25(8), 970-977.\nIshida et al., Biol Pharm. Bull. 2008, 31(6), 1297-1300."
+  },
+  {
+    "compound_name": "(16R)-Carvedilol",
+    "smiles": "COc1ccccc1OCC[NH2+]C[C@@H](O)COc1cccc2[nH]c3ccccc3c12",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 30,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Oldham and Clarke, Drug Metab. Dispos., 1997, 25(8), 970-977.\nIshida et al., Biol Pharm. Bull. 2008, 31(6), 1297-1300."
+  },
+  {
+    "compound_name": "Celecoxib",
+    "smiles": "Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 26,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Tang et al., J. Pharmacol. Exp. Ther., 2000, 293(2), 453-459."
+  },
+  {
+    "compound_name": "Chalcone",
+    "smiles": "O=C(/C=C/c1ccccc1)c1ccccc1",
+    "som_breakdown": [
+      {
+        "atom_index": 9,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Kohno et al., Drug Metab. Dispos., 2005, 33(8), 1115-1123."
+  },
+  {
+    "compound_name": "Chlorpromazine",
+    "smiles": "C[NH+](C)CCCN1c2ccccc2Sc2ccc(Cl)cc21",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Yoshii et al., Life Sci., 2000, 67(2), 175-184.\nWojcikowski et al., Biochem. Pharmacol., 2010, 80(8), 1252-1259."
+  },
+  {
+    "compound_name": "Chlorpyrifos",
+    "smiles": "CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Tang et al., Drug Metab. Dispos., 2001, 29(9), 1201-1204."
+  },
+  {
+    "compound_name": "Chlorzoxazone",
+    "smiles": "O=c1[nH]c2cc(Cl)ccc2o1",
+    "som_breakdown": [
+      {
+        "atom_index": 2,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Shimada et al., Drug Metab. Dispos. 1999, 27(11), 1274-1280."
+  },
+  {
+    "compound_name": "Cilostazol",
+    "smiles": "O=C1CCc2cc(OCCCCc3nnnn3C3CCCCC3)ccc2N1",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Abbas et al., Hum. Exp. Toxicol., 2000, 19, 178-184."
+  },
+  {
+    "compound_name": "Cinnarizine",
+    "smiles": "C(=C/c1ccccc1)\\CN1CC[NH+](C(c2ccccc2)c2ccccc2)CC1",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Kariya et al., Biol. Pharm. Bull., 1996, 19(11), 1511-1514."
+  },
+  {
+    "compound_name": "(14R,15S)-Cisapride",
+    "smiles": "COc1cc(N)c(Cl)cc1C(=O)N[C@@H]1CC[N@H+](CCCOc2ccc(F)cc2)C[C@@H]1OC",
+    "som_breakdown": [
+      {
+        "atom_index": 22,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 29,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 30,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Desta et al., J. Pharmacol. Exp. Ther., 2001, 298(2), 508-520."
+  },
+  {
+    "compound_name": "Clobazam",
+    "smiles": "CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21",
+    "som_breakdown": [
+      {
+        "atom_index": 17,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Giraud et al., Drug Metab. Dispos., 2004, 32(11), 1279-1286."
+  },
+  {
+    "compound_name": "Clomipramine",
+    "smiles": "C[NH+](C)CCCN1c2ccccc2CCc2ccc(Cl)cc21",
+    "som_breakdown": [
+      {
+        "atom_index": 2,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Nielsen et al., J. Pharm. Exp. Ther., 1996, 277(3), 1659-1664."
+  },
+  {
+    "compound_name": "Clonidine",
+    "smiles": "Clc1cccc(Cl)c1Nc1[nH]cc[nH+]1",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Claessens et al., Drug Metab. Dispos., 2010, 38(9), 1393-1396."
+  },
+  {
+    "compound_name": "(9S)-Clopidogrel",
+    "smiles": "COC(=O)[C@H](c1ccccc1Cl)[N@@H+]1CCc2sccc2C1",
+    "som_breakdown": [
+      {
+        "atom_index": 3,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Dansette et al., Chem. Res. Toxicol., 2009, 22(2), 369-373."
+  },
+  {
+    "compound_name": "Clozapine",
+    "smiles": "C[NH+]1CCN(C2=Nc3cc(Cl)ccc3Nc3ccccc32)CC1",
+    "som_breakdown": [
+      {
+        "atom_index": 19,
+        "atom_type": "nitrogen",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 22,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Dragovic et al., Drug Metab. Dispos., 2013, 41(3), 651-658."
+  },
+  {
+    "compound_name": "CMV-423",
+    "smiles": "NC(=O)c1c(Cl)c(-c2cccnc2)n2c1CCCC2",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Bournique et al., Br. J. Clin. Pharm., 2001, 52(1), 53-63."
+  },
+  {
+    "compound_name": "Coumarin",
+    "smiles": "O=c1ccc2ccccc2o1",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Zhuo et al., J. Pharmacol. Exp. Ther., 1999, 288(2), 463-471."
+  },
+  {
+    "compound_name": "(4S,8S)-CP-125-611",
+    "smiles": "Oc1ccc(OC(F)(F)F)cc1C[NH2+][C@H]1CCCN[C@H]1c1ccccc1",
+    "som_breakdown": [
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "oxygen",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Obach et al., Drug Metab. Pharmacokinet., 2007, 22(5), 336-349."
+  },
+  {
+    "compound_name": "CP-677-623",
+    "smiles": "COc1ccc(OC(F)(F)F)cc1C[NH3+]",
+    "som_breakdown": [
+      {
+        "atom_index": 6,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Obach et al., Drug Metab. Pharmacokinet., 2007, 22(5), 336-349."
+  },
+  {
+    "compound_name": "Curcumin",
+    "smiles": "COc1cc(/C=C/C(=O)CC(=O)/C=C/c2ccc(O)c(OC)c2)ccc1O",
+    "som_breakdown": [
+      {
+        "atom_index": 26,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 27,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Sakano and Kawanishi, Arch. Biochem. Biophys., 2002, 405(2), 223-230."
+  },
+  {
+    "compound_name": "(2S)-Cyamemazine",
+    "smiles": "C[C@@H](CN1c2ccccc2Sc2ccc(C#N)cc21)C[NH+](C)C",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 22,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 23,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Arbus et al., Eur. J. Pharm. Sci., 2007, 32(4-5), 357-366."
+  },
+  {
+    "compound_name": "(2R)-Cyamemazine",
+    "smiles": "C[C@H](CN1c2ccccc2Sc2ccc(C#N)cc21)C[NH+](C)C",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 22,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 23,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Arbus et al., Eur. J. Pharm. Sci., 2007, 32(4-5), 357-366."
+  },
+  {
+    "compound_name": "Cyclobenzaprine",
+    "smiles": "C[NH+](C)CCC=C1c2ccccc2C=Cc2ccccc21",
+    "som_breakdown": [
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Wang et al., Drug Metab. Dispos., 1996, 24(7), 786-791."
+  },
+  {
+    "compound_name": "Cyclohexylline",
+    "smiles": "Cc1nc2c([nH]1)c(=O)n(C)c(=O)n2CC1CCCCC1",
+    "som_breakdown": [
+      {
+        "atom_index": 19,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Racha et al., Biochem., 1998, 37(20), 7407-7419."
+  },
+  {
+    "compound_name": "Cyclophosphamide",
+    "smiles": "O=[P@]1(N(CCCl)CCCl)NCCCO1",
+    "som_breakdown": [
+      {
+        "atom_index": 6,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 7,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Bohnenstengel et al., Eur. J. Clin. Pharmacol., 1996, 51(3-4), 297-301."
+  },
+  {
+    "compound_name": "Dacarbazine",
+    "smiles": "CN(C)/N=N/c1[nH]cnc1C(N)=O",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Reid et al., Clin. Cancer Res., 1999, 5(8), 2192-2197."
+  },
+  {
+    "compound_name": "Daidzein",
+    "smiles": "O=c1c(-c2ccc(O)cc2)coc2cc(O)ccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 9,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 22,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 23,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Peng et al., Clin. Chim. Acta., 2003, 334(1-2), 77-85."
+  },
+  {
+    "compound_name": "Dehydropranidipine",
+    "smiles": "COC(=O)c1c(C)nc(C)c(C(=O)OC/C=C/c2ccccc2)c1-c1cccc([N+](=O)[O-])c1",
+    "som_breakdown": [
+      {
+        "atom_index": 22,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Kudo et al., Drug Metab. Dispos., 1999, 27(2), 303-308."
+  },
+  {
+    "compound_name": "(4R,5S)-â3-Carene",
+    "smiles": "CC1=CC[C@@H]2[C@H](C1)C2(C)C",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 2,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Duisken et al., Curr. Drug Metab., 2005, 6(6), 593-601."
+  },
+  {
+    "compound_name": "(7S)-Dexfenfluramine",
+    "smiles": "CC[NH2+][C@@H](C)Cc1cccc(C(F)(F)F)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Haritos et al., Pharmacogenetics , 1998, 8(5), 423-432."
+  },
+  {
+    "compound_name": "Diacetyl-Benzidine",
+    "smiles": "CC(=O)Nc1ccc(-c2ccc(NC(C)=O)cc2)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 4,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 5,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Lakshmi et al., Drug Metab. Dispos., 1997, 25(4), 481-488."
+  },
+  {
+    "compound_name": "Diazinon",
+    "smiles": "CCOP(=S)(OCC)Oc1cc(C)nc(C(C)C)n1",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Mutch and Williams, Toxicol., 2006, 224(1-2), 22-32."
+  },
+  {
+    "compound_name": "Dibenzo[a,j]acridine",
+    "smiles": "c1ccc2c(c1)ccc1nc3ccc4ccccc4c3cc12",
+    "som_breakdown": [
+      {
+        "atom_index": 16,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 22,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Roberts-Thompson et al., Cancer Res., 1995, 55(5), 1052-1059."
+  },
+  {
+    "compound_name": "Dibenzo[a,h]anthracene",
+    "smiles": "c1ccc2c(c1)ccc1cc3c(ccc4ccccc43)cc12",
+    "som_breakdown": [],
+    "source_dataset": "Moitessier__1A2",
+    "source_reference": "Shou et al., Arch. Biochem. Biophys., 1996, 328(1), 201-207."
+  },
+  {
+    "compound_name": "Dibenzo[a,l]pyrene",
+    "smiles": "c1ccc2c(c1)cc1ccc3cccc4c5ccccc5c2c1c34",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 6,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Shou et al., Carcinogenesis, 1996, 17(11), 2429-2433."
+  },
+  {
+    "compound_name": "Dibenzylfluorescein",
+    "smiles": "O=C(OCc1ccccc1)c1ccccc1-c1c2ccc(=O)cc-2oc2cc(OCc3ccccc3)ccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 16,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 33,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack__1A2",
+    "source_reference": "Stresser et al., Drug Metab. Dispos., 2002, 30(7), 845-852.\nDonato et al., Drug Metab. Dispos., 2004, 32(7), 699-706."
+  },
+  {
+    "compound_name": "DiMMAMC",
+    "smiles": "COc1ccc2c(C[NH+](C)C)cc(=O)oc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 15,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 16,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Venhorst et al., Drug Metab. Dispos., 2000, 28(12), 1524-1532."
+  },
+  {
+    "compound_name": "Diphenhydramine",
+    "smiles": "C[NH+](C)CCOC(c1ccccc1)c1ccccc1",
+    "som_breakdown": [
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 9,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Akutsu et al., Drug Metab. Dispos., 2007, 35(1), 72-78."
+  },
+  {
+    "compound_name": "Diuron",
+    "smiles": "CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Abbas et al., Drug Metab. Dispos., 2007, 35(9), 1634-1641."
+  },
+  {
+    "compound_name": "DMBA",
+    "smiles": "Cc1c2ccccc2c(C)c2c1ccc1ccccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 4,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 7,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Shou et al., Mol. Carcinogenesis, 1996, 17(4), 241-249."
+  },
+  {
+    "compound_name": "DMXAA",
+    "smiles": "Cc1ccc2c(=O)c3cccc(CC(=O)[O-])c3oc2c1C",
+    "som_breakdown": [
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Zhou et al., Drug Metab. Dispos., 2000, 28(12), 1449-1456."
+  },
+  {
+    "compound_name": "Domperidone",
+    "smiles": "O=c1[nH]c2ccccc2n1CCC[N@H+]1CC[C@H](n2c(=O)[nH]c3cc(Cl)ccc32)CC1",
+    "som_breakdown": [
+      {
+        "atom_index": 30,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Ward et al., Br. J. Clin. Pharm., 2004, 58(3), 277-287."
+  },
+  {
+    "compound_name": "(E)-Doxepin",
+    "smiles": "C[NH+](C)CC/C=C1\\c2ccccc2COc2ccccc21",
+    "som_breakdown": [
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Haritos et al., Pharmacogenetics, 2000, 10(7), 591-603."
+  },
+  {
+    "compound_name": "(Z)-Doxepin",
+    "smiles": "C[NH+](C)CC/C=C1/c2ccccc2COc2ccccc21",
+    "som_breakdown": [
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Haritos et al., Pharmacogenetics, 2000, 10(7), 591-603."
+  },
+  {
+    "compound_name": "DY-9760E",
+    "smiles": "COc1cc2c(CC[NH+]3CCN(c4cccc(Cl)c4C)CC3)nn(Cc3c[nH]cn3)c2cc1OC",
+    "som_breakdown": [
+      {
+        "atom_index": 4,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 23,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 33,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Tachibana et al., Drug Metab. Dispos., 2005, 33(11), 1628-1636."
+  },
+  {
+    "compound_name": "(11S)-Efavirenz",
+    "smiles": "O=C1Nc2ccc(Cl)cc2[C@@](C#CC2CC2)(C(F)(F)F)O1",
+    "som_breakdown": [
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Ward et al., J. Pharm. Exp. Ther., 2003, 306(1), 287-300."
+  },
+  {
+    "compound_name": "(10R)-Eletriptan",
+    "smiles": "C[N@H+]1CCC[C@@H]1Cc1c[nH]c2ccc(CCS(=O)(=O)c3ccccc3)cc12",
+    "som_breakdown": [
+      {
+        "atom_index": 17,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Evans et al., Drug Metab. Dispos., 2003, 31(7), 861-869."
+  },
+  {
+    "compound_name": "Ellipticine",
+    "smiles": "Cc1c2ccncc2c(C)c2c1[nH]c1ccccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Stiborova et al., Cancer Res., 2004, 64(22), 8374-8380."
+  },
+  {
+    "compound_name": "EMAMC",
+    "smiles": "CC[NH2+]Cc1cc(=O)oc2cc(OC)ccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 18,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 25,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Venhorst et al., Drug Metab. Dispos., 2000, 28(12), 1524-1532."
+  },
+  {
+    "compound_name": "Erlotinib",
+    "smiles": "C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 29,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Additional_1A2",
+    "source_reference": "Li et al., Clin. Cancer Res., 2007, 13(12), 3731-3737."
+  },
+  {
+    "compound_name": "(3S,4S,5R,6S)-Estrone",
+    "smiles": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CCC2=O",
+    "som_breakdown": [
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Lee et al., Endocrinology, 2003, 144(8), 3382-3398."
+  },
+  {
+    "compound_name": "Eugenol",
+    "smiles": "C=CCc1ccc(O)c(OC)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Sakano et al., Mutat. Res. - Genet. Toxicol. Environ. Mutagen., 2004, 565(1), 35-44."
+  },
+  {
+    "compound_name": "Eupatilin",
+    "smiles": "COc1ccc(-c2cc(=O)c3c(O)c(OC)c(O)cc3o2)cc1OC",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Lee et al., Xenobiotica, 2007, 37(8), 803-817."
+  },
+  {
+    "compound_name": "(5S)-Fenproporex",
+    "smiles": "C[C@@H](Cc1ccccc1)[NH2+]CCC#N",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Kraemer et al., Biochem Pharm., 2004, 68(5), 947-957."
+  },
+  {
+    "compound_name": "(5R)-Fenproporex",
+    "smiles": "C[C@H](Cc1ccccc1)[NH2+]CCC#N",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Kraemer et al., Biochem Pharm., 2004, 68(5), 947-957."
+  },
+  {
+    "compound_name": "(1S)-Fluoxetine",
+    "smiles": "C[NH2+]CC[C@H](Oc1ccc(C(F)(F)F)cc1)c1ccccc1",
+    "som_breakdown": [
+      {
+        "atom_index": 17,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Margolis et al., Drug Metab. Dispos., 2000, 28(10), 1187-1191."
+  },
+  {
+    "compound_name": "(1R)-Fluoxetine",
+    "smiles": "C[NH2+]CC[C@@H](Oc1ccc(C(F)(F)F)cc1)c1ccccc1",
+    "som_breakdown": [
+      {
+        "atom_index": 17,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Margolis et al., Drug Metab. Dispos., 2000, 28(10), 1187-1191."
+  },
+  {
+    "compound_name": "Flutamide",
+    "smiles": "CC(C)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 9,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Goda et al., Drug Metab. Dispos., 2006, 34(5), 828-835."
+  },
+  {
+    "compound_name": "Fluvoxamine",
+    "smiles": "COCCCC/C(=N\\OCC[NH3+])c1ccc(C(F)(F)F)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Spigset et al., Eur. J. Clin. Pharmacol., 2001, 57(9), 653-658."
+  },
+  {
+    "compound_name": "Formononetin",
+    "smiles": "COc1ccc(-c2coc3cc(O)ccc3c2=O)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 4,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 10,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Tolleson et al., J. Agric. Food Chem., 2022, 50(17), 4783-4790."
+  },
+  {
+    "compound_name": "Foxy",
+    "smiles": "COc1ccc2[nH]cc(CC[NH+](C(C)C)C(C)C)c2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Narimatsu et al., Biochem. Pharmacol., 2006, 71(9), 1377-1385."
+  },
+  {
+    "compound_name": "Furafylline",
+    "smiles": "Cc1nc2c([nH]1)c(=O)n(C)c(=O)n2Cc1ccco1",
+    "som_breakdown": [
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Racha et al., Biochem., 1998, 37(20), 7407-7419."
+  },
+  {
+    "compound_name": "(18R)-Furametpyr",
+    "smiles": "Cc1nn(C)c(Cl)c1C(=O)Nc1cccc2c1[C@@H](C)OC2(C)C",
+    "som_breakdown": [
+      {
+        "atom_index": 6,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Nagahori et al., J. Agric. Food Chem., 2000, 48(11), 5754-5759."
+  },
+  {
+    "compound_name": "(18S)-Furametpyr",
+    "smiles": "Cc1nn(C)c(Cl)c1C(=O)Nc1cccc2c1[C@H](C)OC2(C)C",
+    "som_breakdown": [
+      {
+        "atom_index": 6,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Nagahori et al., J. Agric. Food Chem., 2000, 48(11), 5754-5759."
+  },
+  {
+    "compound_name": "Galangin",
+    "smiles": "O=c1c(O)c(-c2ccccc2)oc2cc(O)cc(O)c12",
+    "som_breakdown": [
+      {
+        "atom_index": 20,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Otake and Walle, Drug Metab. Dispos., 2002, 30(2), 103-105."
+  },
+  {
+    "compound_name": "Genistein",
+    "smiles": "O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 9,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 16,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Roberts-Kirchhoff et al., Chem. Res. Toxicol., 1999, 12(7), 610-616."
+  },
+  {
+    "compound_name": "GR87442",
+    "smiles": "Cc1[nH]cnc1CN1CCc2c(c3cccc(F)c3n2C)C1=O",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Additional_1A2",
+    "source_reference": "Somers et al., Xenobiotica, 2007, 37(8), 832-854."
+  },
+  {
+    "compound_name": "GTS-21",
+    "smiles": "COc1ccc(/C=C2\\CCCN=C2c2cccnc2)c(OC)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 22,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 23,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Azuma et al., Xenobiotica, 1999, 29(7), 747-762."
+  },
+  {
+    "compound_name": "Guanabenz",
+    "smiles": "NC(N)=[NH+]/N=C/c1c(Cl)cccc1Cl",
+    "som_breakdown": [
+      {
+        "atom_index": 3,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 4,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Clement and Demesmaeker, Drug Metab. Dispos., 1997, 25(11), 1266-1271."
+  },
+  {
+    "compound_name": "(11S)-H326/42",
+    "smiles": "O=[S@@](Cc1cc(OCC2CC2)ccn1)c1nc2cc(F)ccc2[nH]1",
+    "som_breakdown": [
+      {
+        "atom_index": 2,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "sulphur",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Abelo et al., Drug Metab. Dispos., 2000, 28(1), 58-64."
+  },
+  {
+    "compound_name": "(1R)-H326/43",
+    "smiles": "O=[S@](Cc1cc(OCC2CC2)ccn1)c1nc2cc(F)ccc2[nH]1",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "ÃbelÃ¶ et al., Drug Metab. Dispos., 2000, 28(1), 58-64."
+  },
+  {
+    "compound_name": "Harmaline",
+    "smiles": "COc1ccc2c3c([nH]c2c1)C(C)=NCC3",
+    "som_breakdown": [
+      {
+        "atom_index": 16,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Yu et al., J. Pharm. Exp. Ther., 2003, 305(1), 315-322."
+  },
+  {
+    "compound_name": "Harmine",
+    "smiles": "COc1ccc2c(c1)[nH]c1c(C)nccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 16,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Yu et al., J. Pharm. Exp. Ther., 2003, 305(1), 315-322."
+  },
+  {
+    "compound_name": "(7S)-Hesperetin",
+    "smiles": "COc1ccc([C@@H]2CC(=O)c3c(O)cc(O)cc3O2)cc1O",
+    "som_breakdown": [
+      {
+        "atom_index": 22,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Breinholt et al., Food Chem. Toxicol., 2002, 40(5), 609-616."
+  },
+  {
+    "compound_name": "(7R)-Hesperetin",
+    "smiles": "COc1ccc([C@H]2CC(=O)c3c(O)cc(O)cc3O2)cc1O",
+    "som_breakdown": [
+      {
+        "atom_index": 22,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Breinholt et al., Food Chem. Toxicol., 2002, 40(5), 609-616."
+  },
+  {
+    "compound_name": "Imidacloprid",
+    "smiles": "O=[N+]([O-])/N=C1\\NCCN1Cc1ccc(Cl)nc1",
+    "som_breakdown": [
+      {
+        "atom_index": 4,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Schulz-Jander & Casida, Toxicol. Lett., 2002, 132(1), 65-70."
+  },
+  {
+    "compound_name": "Imipramine",
+    "smiles": "C[NH+](C)CCCN1c2ccccc2CCc2ccccc21",
+    "som_breakdown": [
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Yang et al., Drug Metab. Dispos., 1999, 27(1), 102-109.\nKoyama et al., J. Pharmacol. Exp. Ther., 1997, 281(3), 1199-1210."
+  },
+  {
+    "compound_name": "Indiplon",
+    "smiles": "CC(=O)N(C)c1cccc(-c2ccnc3c(C(=O)c4cccs4)cnn23)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 24,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 25,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Madan et al., Xenobiotica, 2007, 37(7), 736-752."
+  },
+  {
+    "compound_name": "Ipriflavone",
+    "smiles": "CC(C)Oc1ccc2c(=O)c(-c3ccccc3)coc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 2,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 3,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Moon et al., Xenobiotica, 2007, 37(3), 246-259."
+  },
+  {
+    "compound_name": "(19R)-Ipriflavone-M4",
+    "smiles": "C[C@H](CO)Oc1ccc2c(=O)c(-c3ccccc3)coc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Moon et al., Xenobiotica, 2007, 37(3), 246-259."
+  },
+  {
+    "compound_name": "(19S)-Ipriflavone-M4",
+    "smiles": "C[C@@H](CO)Oc1ccc2c(=O)c(-c3ccccc3)coc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Moon et al., Xenobiotica, 2007, 37(3), 246-259."
+  },
+  {
+    "compound_name": "JANEX-1",
+    "smiles": "COc1cc2ncnc(Nc3ccc(O)cc3)c2cc1OC",
+    "som_breakdown": [
+      {
+        "atom_index": 31,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Uckun et al., Drug Metab. Dispos., 2002, 30(1), 74-85."
+  },
+  {
+    "compound_name": "JPC-2056",
+    "smiles": "[H]/N=C(NC(C)C)/[NH+]=C(\\N)NOCCCOc1ccc(OC(F)(F)F)cc1Cl",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Diaz et al., Drug Metab. Dispos., 2008, 36(2), 380-385."
+  },
+  {
+    "compound_name": "Kaempferide",
+    "smiles": "COc1ccc(-c2oc3cc(O)cc(O)c3c(=O)c2O)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 22,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Otake and Walle, Drug Metab. Dispos., 2002, 30(2), 103-105."
+  },
+  {
+    "compound_name": "Kaempferol",
+    "smiles": "O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12",
+    "som_breakdown": [
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Breinholt et al., Food Chem. Toxicol., 2002, 40(5), 609-616."
+  },
+  {
+    "compound_name": "(9S,16R,18S)-KR-31543",
+    "smiles": "COC(OC)[C@@]1(C)Oc2ccc(N)cc2[C@H](N(Cc2nnn(C)n2)c2ccc(Cl)cc2)[C@H]1O",
+    "som_breakdown": [
+      {
+        "atom_index": 18,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Ji et al, Arch. Pharm. Res., 2004, 27(2), 239-245."
+  },
+  {
+    "compound_name": "KR-60436",
+    "smiles": "COc1ccc(N2CCc3c(NCCO)nc4c(OC(F)(F)F)cccc4c32)c(C)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 31,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Ji et al.,Toxicology Lett., 2005, 155(1), 103-114."
+  },
+  {
+    "compound_name": "Lidocaine",
+    "smiles": "CC[NH+](CC)CC(=O)Nc1c(C)cccc1C",
+    "som_breakdown": [
+      {
+        "atom_index": 2,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 4,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Wang et al., Drug Metab. Dispos., 2000, 28(8), 959-965."
+  },
+  {
+    "compound_name": "(18R)-Lisofylline",
+    "smiles": "C[C@@H](O)CCCCn1c(=O)c2c(ncn2C)n(C)c1=O",
+    "som_breakdown": [
+      {
+        "atom_index": 18,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Lee and Slattery, Drug Metab. Dispos., 1997, 25(12), 1354-1358."
+  },
+  {
+    "compound_name": "Loratadine",
+    "smiles": "CCOC(=O)N1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1",
+    "som_breakdown": [
+      {
+        "atom_index": 24,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Ghosal et al., Drug Metab. Letter., 2009, 3(3), 162-170."
+  },
+  {
+    "compound_name": "LU-25109 (Alvameline)",
+    "smiles": "CCn1nnc(C2=CCC[N@@H+](C)C2)n1",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "nitrogen",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 2,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 3,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 6,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 7,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Jensen and Dalgaard, Drug Metab. Dispos., 1999, 27(1), 125-132."
+  },
+  {
+    "compound_name": "(1R)-Malathion",
+    "smiles": "CCOC(=O)C[C@@H](SP(=S)(OC)OC)C(=O)OCC",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Buratti et al., Drug Metab. Dispos., 2005, 33(3), 295-302."
+  },
+  {
+    "compound_name": "MAMC",
+    "smiles": "COc1ccc2c(C[NH3+])cc(=O)oc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 15,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Venhorst et al., Drug Metab. Dispos., 2000, 28(12), 1524-1532."
+  },
+  {
+    "compound_name": "Maprotiline",
+    "smiles": "C[NH2+]CCC[C@]12CC[C@H](c3ccccc31)c1ccccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Brachtenorf et al., Pharmacol. Toxicol., 2002, 90(3), 144-149."
+  },
+  {
+    "compound_name": "(4S)-MBDB",
+    "smiles": "CC[C@@H](Cc1ccc2c(c1)OCO2)[NH2+]C",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Maurer et al., Toxicol. Lett., 2000, 112-113, 133-142."
+  },
+  {
+    "compound_name": "(4R)-MBDB",
+    "smiles": "CC[C@H](Cc1ccc2c(c1)OCO2)[NH2+]C",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Maurer et al., Toxicol. Lett., 2000, 112-113, 133-142."
+  },
+  {
+    "compound_name": "(11S)-MDE",
+    "smiles": "CC[NH2+][C@@H](C)Cc1ccc2c(c1)OCO2",
+    "som_breakdown": [
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Maurer et al., Toxicol. Lett., 2000, 112-113, 133-142."
+  },
+  {
+    "compound_name": "(11R)-MDE",
+    "smiles": "CC[NH2+][C@H](C)Cc1ccc2c(c1)OCO2",
+    "som_breakdown": [
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Maurer et al., Toxicol. Lett., 2000, 112-113, 133-142."
+  },
+  {
+    "compound_name": "(4R)-MDMA",
+    "smiles": "C[NH2+][C@H](C)Cc1ccc2c(c1)OCO2",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Maurer et al., Toxicol. Lett., 2000, 112-113, 133-142."
+  },
+  {
+    "compound_name": "(4S)-MDMA",
+    "smiles": "C[NH2+][C@@H](C)Cc1ccc2c(c1)OCO2",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Maurer et al., Toxicol. Lett., 2000, 112-113, 133-142."
+  },
+  {
+    "compound_name": "Melatonin",
+    "smiles": "COc1ccc2[nH]cc(CCNC(C)=O)c2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Ma et al., Drug Metab. Dispos., 2005, 33(4), 489-494."
+  },
+  {
+    "compound_name": "Meperidine",
+    "smiles": "CCOC(=O)[C@]1(c2ccccc2)CC[N@@H+](C)CC1",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Ramirez et al., Drug Metab. Dispos., 2004, 32(9), 930-936."
+  },
+  {
+    "compound_name": "(2S)-Mephenytoin",
+    "smiles": "CC[C@@]1(c2ccccc2)NC(=O)N(C)C1=O",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Coller et al., Br. J. Clin. Pharmacol., 1999, 48(2), 158-167."
+  },
+  {
+    "compound_name": "(11R)-Mesoridazine",
+    "smiles": "C[N@H+]1CCCC[C@@H]1CCN1c2ccccc2Sc2ccc([S@@](C)=O)cc21",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Wojcikowski et al., Drug Metab. Dispos., 2006, 34(3), 471-476."
+  },
+  {
+    "compound_name": "(11S)-Mesoridazine",
+    "smiles": "C[N@H+]1CCCC[C@H]1CCN1c2ccccc2Sc2ccc([S@@](C)=O)cc21",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Wojcikowski et al., Drug Metab. Dispos., 2006, 34(3), 471-476."
+  },
+  {
+    "compound_name": "Methiocarb",
+    "smiles": "CNC(=O)Oc1cc(C)c(SC)c(C)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Usmani et al., Drug Metab. Dispos., 2004, 32(3), 333-339."
+  },
+  {
+    "compound_name": "(7R)-Menthofuran",
+    "smiles": "Cc1coc2c1CC[C@@H](C)C2",
+    "som_breakdown": [
+      {
+        "atom_index": 4,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Khojasteh-Bakht et al., Drug Metab. Dispos., 1999, 27(5), 574-580."
+  },
+  {
+    "compound_name": "Methoxychlor",
+    "smiles": "COc1ccc(C(c2ccc(OC)cc2)C(Cl)(Cl)Cl)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 12,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Stresser and Kupfer, Drug Metab. Dispos., 1998, 26(9), 868-874.\nStresser and Kupfer, Biochemistry, 1997, 36(8), 2203-2210.\nHu and Kupfer, Drug Metab. Dispos., 2002, 30(9), 1035-1042."
+  },
+  {
+    "compound_name": "(1R)-Methoxychlor-Catechol",
+    "smiles": "COc1ccc([C@H](c2ccc(O)c(O)c2)C(Cl)(Cl)Cl)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Hu and Kupfer, Drug Metab. Dispos., 2002, 30(9), 1035-1042."
+  },
+  {
+    "compound_name": "(1S)-Methoxychlor-Catechol",
+    "smiles": "COc1ccc([C@@H](c2ccc(O)c(O)c2)C(Cl)(Cl)Cl)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Hu and Kupfer, Drug Metab. Dispos., 2002, 30(9), 1035-1042."
+  },
+  {
+    "compound_name": "(1R)-Methoxychlor-Mono-OH",
+    "smiles": "COc1ccc([C@@H](c2ccc(O)cc2)C(Cl)(Cl)Cl)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Hu and Kupfer, Drug Metab. Dispos., 2002, 30(9), 1035-1042."
+  },
+  {
+    "compound_name": "(1S)-Methoxychlor-Mono-OH",
+    "smiles": "COc1ccc([C@H](c2ccc(O)cc2)C(Cl)(Cl)Cl)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Hu and Kupfer, Drug Metab. Dispos., 2002, 30(9), 1035-1042."
+  },
+  {
+    "compound_name": "Methyleugenol",
+    "smiles": "C=CCc1ccc(OC)c(OC)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Jeurissen et al., Chem. Res. Toxicol., 2006, 19(1), 111-116."
+  },
+  {
+    "compound_name": "Metoclopramide",
+    "smiles": "CC[NH+](CC)CCNC(=O)c1cc(Cl)c(N)cc1OC",
+    "som_breakdown": [
+      {
+        "atom_index": 17,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Desta et al., Drug Metab. Dispos., 2002, 30(3), 336-343."
+  },
+  {
+    "compound_name": "(11R)-Mexiletine",
+    "smiles": "Cc1cccc(C)c1OC[C@@H](C)[NH3+]",
+    "som_breakdown": [
+      {
+        "atom_index": 6,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 10,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "nitrogen",
+        "classification": "tertiary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Nakajima et al., Br. J. Clin. Pharmacol., 1998, 46(1), 55-62.\nLabbe et al., Xenobiotica, 2003, 33(1), 13-25."
+  },
+  {
+    "compound_name": "(11S)-Mexiletine",
+    "smiles": "Cc1cccc(C)c1OC[C@H](C)[NH3+]",
+    "som_breakdown": [
+      {
+        "atom_index": 6,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 10,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "nitrogen",
+        "classification": "tertiary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Nakajima et al., Br. J. Clin. Pharmacol., 1998, 46(1), 55-62.\nLabbe et al., Xenobiotica, 2003, 33(1), 13-25."
+  },
+  {
+    "compound_name": "(15R)-Mianserin",
+    "smiles": "C[N@@H+]1CCN2c3ccccc3Cc3ccccc3[C@@H]2C1",
+    "som_breakdown": [
+      {
+        "atom_index": 2,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "nitrogen",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Koyama et al., J. Pharm. Exp. Ther., 1996, 278(1), 21-30."
+  },
+  {
+    "compound_name": "(2S)-Mirtazapine",
+    "smiles": "C[N@H+]1CCN2c3ncccc3Cc3ccccc3[C@H]2C1",
+    "som_breakdown": [
+      {
+        "atom_index": 9,
+        "atom_type": "nitrogen",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Stormer et al., Drug Metab. Dispos., 2000, 28(10), 1168-1175."
+  },
+  {
+    "compound_name": "(2R)-Mirtazapine",
+    "smiles": "C[N@@H+]1CCN2c3ncccc3Cc3ccccc3[C@@H]2C1",
+    "som_breakdown": [
+      {
+        "atom_index": 9,
+        "atom_type": "nitrogen",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Stormer et al., Drug Metab. Dispos., 2000, 28(10), 1168-1175."
+  },
+  {
+    "compound_name": "(7R)-ML-3403",
+    "smiles": "CSc1nc(-c2ccnc(N[C@H](C)c3ccccc3)c2)c(-c2ccc(F)cc2)[nH]1",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Kammerer et al., Drug Metab. Dispos., 2007, 35(6), 875-883."
+  },
+  {
+    "compound_name": "(7S)-ML-3403",
+    "smiles": "CSc1nc(-c2ccnc(N[C@@H](C)c3ccccc3)c2)c(-c2ccc(F)cc2)[nH]1",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Kammerer et al., Drug Metab. Dispos., 2007, 35(6), 875-883."
+  },
+  {
+    "compound_name": "(8R)-ML-3603",
+    "smiles": "C[C@@H](Nc1cc(-c2nc([S@@](C)=O)[nH]c2-c2ccc(F)cc2)ccn1)c1ccccc1",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 7,
+        "atom_type": "nitrogen",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Kammerer et al., Drug Metab. Dispos., 2007, 35(6), 875-883.\nKammerer et al., ASPET, 2007, 27(1), 125-132."
+  },
+  {
+    "compound_name": "(8S)-ML-3603",
+    "smiles": "C[C@H](Nc1cc(-c2nc([S@@](C)=O)[nH]c2-c2ccc(F)cc2)ccn1)c1ccccc1",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 7,
+        "atom_type": "nitrogen",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Kammerer et al., Drug Metab. Dispos., 2007, 35(6), 875-883.\nKammerer et al., ASPET, 2007, 27(1), 125-132."
+  },
+  {
+    "compound_name": "MAMFC",
+    "smiles": "CC[N+](C)(CC)CCc1c(C(F)(F)F)c2ccc(OC)cc2oc1=O",
+    "som_breakdown": [
+      {
+        "atom_index": 23,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Stresser et al., Drug Metab. Dispos., 2002, 30(7), 845-852."
+  },
+  {
+    "compound_name": "MMAMC",
+    "smiles": "C[NH2+]Cc1cc(=O)oc2cc(OC)ccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 18,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 25,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Venhorst et al., Drug Metab. Dispos., 2000, 28(12), 1524-1532."
+  },
+  {
+    "compound_name": "(4S)-MPBP",
+    "smiles": "CC[C@@H](C(=O)c1ccc(C)cc1)[NH+]1CCCC1",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Peters et al., Drug Metab. Dispos., 2008, 36(1), 163-168."
+  },
+  {
+    "compound_name": "(4R)-MPBP",
+    "smiles": "CC[C@H](C(=O)c1ccc(C)cc1)[NH+]1CCCC1",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Peters et al., Drug Metab. Dispos., 2008, 36(1), 163-168."
+  },
+  {
+    "compound_name": "Myristicin",
+    "smiles": "C=CCc1cc(OC)c2c(c1)OCO2",
+    "som_breakdown": [
+      {
+        "atom_index": 9,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Yun et al., Toxicol. Lett., 2003, 137(3), 143-150."
+  },
+  {
+    "compound_name": "N7-methylcyclohexylline",
+    "smiles": "Cc1nc2c(c(=O)n(C)c(=O)n2CC2CCCCC2)n1C",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 16,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Racha et al., Biochem., 1998, 37(20), 7407-7419."
+  },
+  {
+    "compound_name": "N7-methylfurafylline",
+    "smiles": "Cc1nc2c(c(=O)n(C)c(=O)n2Cc2ccco2)n1C",
+    "som_breakdown": [
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Racha et al., Biochem., 1998, 37(20), 7407-7419."
+  },
+  {
+    "compound_name": "Nabumetone",
+    "smiles": "COc1ccc2cc(CCC(C)=O)ccc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 16,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Turpeinen et al., Drug Metab. Dispos., 2009, 37(5), 1017-1024."
+  },
+  {
+    "compound_name": "(11S)-Naproxen",
+    "smiles": "COc1ccc2cc([C@H](C)C(=O)[O-])ccc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 15,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Miners et al., Biochem. Pharmacol., 1996, 51(8), 1003-1008."
+  },
+  {
+    "compound_name": "(4R)-Naproxen",
+    "smiles": "COc1ccc2cc([C@@H](C)C(=O)[O-])ccc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 17,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Miners et al., Biochem. Pharmacol., 1996, 51(8), 1003-1008."
+  },
+  {
+    "compound_name": "(7S)-Naringenin",
+    "smiles": "O=C1C[C@@H](c2ccc(O)cc2)Oc2cc(O)cc(O)c21",
+    "som_breakdown": [
+      {
+        "atom_index": 17,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Breinholt et al., Food Chem. Toxicol., 2002, 40(5), 609-616."
+  },
+  {
+    "compound_name": "N-Desacetyl-Indiplon",
+    "smiles": "CNc1cccc(-c2ccnc3c(C(=O)c4cccs4)cnn23)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Madan et al., Xenobiotica, 2007, 37(7), 736-752."
+  },
+  {
+    "compound_name": "N-Desmethyl-Clomipramine",
+    "smiles": "C[NH2+]CCCN1c2ccccc2CCc2ccc(Cl)cc21",
+    "som_breakdown": [
+      {
+        "atom_index": 4,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Nielsen et al., J. Pharmacol. Exp. Ther., 1996, 277(3), 1659-1664."
+  },
+  {
+    "compound_name": "(1R)-Nicardipine",
+    "smiles": "COC(=O)C1=C(C)NC(C)=C(C(=O)OCC[N@H+](C)Cc2ccccc2)[C@@H]1c1cccc([N+](=O)[O-])c1",
+    "som_breakdown": [
+      {
+        "atom_index": 28,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Nakamura et al., Biol. Pharm. Bull., 2005, 28(5), 882-885."
+  },
+  {
+    "compound_name": "(1S)-Nicardipine",
+    "smiles": "COC(=O)C1=C(C)NC(C)=C(C(=O)OCC[N@H+](C)Cc2ccccc2)[C@H]1c1cccc([N+](=O)[O-])c1",
+    "som_breakdown": [
+      {
+        "atom_index": 28,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Nakamura et al., Biol. Pharm. Bull., 2005, 28(5), 882-885."
+  },
+  {
+    "compound_name": "(4S)-Nicotine",
+    "smiles": "C[N@H+]1CCC[C@H]1c1cccnc1",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Yamazaki et al., Arch. Toxicol., 1999, 73, 65-70."
+  },
+  {
+    "compound_name": "NN-Diethyl-m-Toluamide",
+    "smiles": "CCN(CC)C(=O)c1cccc(C)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Usmani et al., Drug Metab. Dispos., 2002, 30(3), 289-294."
+  },
+  {
+    "compound_name": "NNK",
+    "smiles": "CN(CCCC(=O)c1cccnc1)N=O",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 9,
+        "atom_type": "oxygen",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Smith et al., Cancer Res., 1992, 52, 1757-1763."
+  },
+  {
+    "compound_name": "Nortriptyline",
+    "smiles": "C[NH2+]CCC=C1c2ccccc2CCc2ccccc21",
+    "som_breakdown": [
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Olesen and Linnet, Drug Metab. Dispos., 1997, 25(6), 740-744."
+  },
+  {
+    "compound_name": "NSC686288",
+    "smiles": "Cc1c(F)c(N)c2c(=O)cc(-c3ccc(N)c(F)c3)oc2c1F",
+    "som_breakdown": [
+      {
+        "atom_index": 2,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Additional_1A2",
+    "source_reference": "Chen et al., J. Pharmacol. Exper. Therap., 2006, 318(3) 1330-1342."
+  },
+  {
+    "compound_name": "O6-Benzylguanine",
+    "smiles": "Nc1nc(OCc2ccccc2)c2[nH]cnc2n1",
+    "som_breakdown": [
+      {
+        "atom_index": 2,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Roy et al., Biochem. Pharmacol., 1995, 50(9), 1385-1389."
+  },
+  {
+    "compound_name": "(10R,18S)-Ochratoxin-A",
+    "smiles": "C[C@@H]1Cc2c(Cl)cc(C(=O)N[C@@H](Cc3ccccc3)C(=O)[O-])c(O)c2C(=O)O1",
+    "som_breakdown": [
+      {
+        "atom_index": 6,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Zepnik et al., Toxicol. Sci., 2001, 59(1), 59-67."
+  },
+  {
+    "compound_name": "Olanzapine",
+    "smiles": "Cc1cc2c(s1)Nc1ccccc1N=C2N1CC[NH+](C)CC1",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "nitrogen",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Ring et al., J. Pharmacol. Exp. Ther., 1996, 276(2), 658-666."
+  },
+  {
+    "compound_name": "(9S)-Ondansetron",
+    "smiles": "Cc1[nH+]ccn1C[C@@H]1CCc2c(c3ccccc3n2C)C1=O",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 16,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Dixon et al., Drug Metab. Dispos., 1995, 23(11), 1225-1230."
+  },
+  {
+    "compound_name": "(9R)-Ondansetron",
+    "smiles": "Cc1[nH+]ccn1C[C@H]1CCc2c(c3ccccc3n2C)C1=O",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 16,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Dixon et al., Drug Metab. Dispos., 1995, 23(11), 1225-1230."
+  },
+  {
+    "compound_name": "o-Aminoazotoluene",
+    "smiles": "Cc1cc(/N=N/c2ccccc2C)ccc1N",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 16,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Degawa et al., Carcinogenesis, 1982, 3(10), 1113-1117."
+  },
+  {
+    "compound_name": "o-Phenylphenol",
+    "smiles": "Oc1ccccc1-c1ccccc1",
+    "som_breakdown": [
+      {
+        "atom_index": 9,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Ozawa et al., Xenobiotica, 2000, 30(10), 1005-1017."
+  },
+  {
+    "compound_name": "(8S)-OSU-6162",
+    "smiles": "CCC[N@H+]1CCC[C@@H](c2cccc(S(C)(=O)=O)c2)C1",
+    "som_breakdown": [
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Wienkers and Wynalda, Drug Metab. Dispos., 2002, 30(12), 1372-1377."
+  },
+  {
+    "compound_name": "(1S,3S,4R,8R)-Oxycodone",
+    "smiles": "COc1ccc2c3c1O[C@H]1C(=O)CC[C@@]4(O)[C@@H](C2)[N@@H+](C)CC[C@]314",
+    "som_breakdown": [
+      {
+        "atom_index": 22,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Lalovic et al., Drug Metab. Dispos., 2004, 32(4), 447-454."
+  },
+  {
+    "compound_name": "p-Isopropyloxyacetanilide",
+    "smiles": "CC(=O)Nc1ccc(OC(C)C)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Guengerich et al., Drug Metab. Rev., 2000, 32(3-4), 267-281."
+  },
+  {
+    "compound_name": "p-Methoxyacetanilide",
+    "smiles": "COc1ccc(NC(C)=O)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Guengerich et al., Drug Metab. Rev., 2000, 32(3-4), 267-281."
+  },
+  {
+    "compound_name": "Parathion",
+    "smiles": "CCOP(=S)(OCC)Oc1ccc([N+](=O)[O-])cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Mutch and Williams, Toxicol., 2006, 224(1-2), 22-32."
+  },
+  {
+    "compound_name": "Pefloxacin",
+    "smiles": "CCn1cc(C(=O)[O-])c(=O)c2cc(F)c(N3CC[NH+](C)CC3)cc21",
+    "som_breakdown": [
+      {
+        "atom_index": 15,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Kinzig-Schippers et al., Clin. Pharm. Therap., 1999, 65(3), 262-274."
+  },
+  {
+    "compound_name": "Perazine",
+    "smiles": "C[NH+]1CCN(CCCN2c3ccccc3Sc3ccccc32)CC1",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 47,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Wojcikowski et al., Europ. Neuropsychopharm., 2004, 14(3), 199-208."
+  },
+  {
+    "compound_name": "Perphenazine",
+    "smiles": "OCCN1CC[NH+](CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1",
+    "som_breakdown": [
+      {
+        "atom_index": 25,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Olesen and Linnet, Br. J. Clin. Pharm., 2008, 50(6), 563-571."
+  },
+  {
+    "compound_name": "Phenacetin",
+    "smiles": "CCOc1ccc(NC(C)=O)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 9,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Guengerich et al., Drug Metab. Rev., 2000, 32(3-4), 267-281."
+  },
+  {
+    "compound_name": "Phenytoin",
+    "smiles": "O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 16,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Komatsu et al., Drug Metab. Dispos., 2000, 28(11), 1361-1368."
+  },
+  {
+    "compound_name": "PhIP",
+    "smiles": "Cn1c(N)nc2ncc(-c3ccccc3)cc21",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Crofts et al., Carcinogenesis, 1998, 19(11), 1969-1973."
+  },
+  {
+    "compound_name": "Phorate",
+    "smiles": "CCOP(=S)(OCC)SCSCC",
+    "som_breakdown": [
+      {
+        "atom_index": 9,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Usmani et al., Drug Metab. Dispos., 2004, 32(3), 333-339."
+  },
+  {
+    "compound_name": "(24S)-Pimobendan",
+    "smiles": "COc1ccc(-c2nc3cc(C4=NNC(=O)C[C@@H]4C)ccc3[nH]2)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Kuriya et al., Drug Metab. Dispos., 2000, 28(1), 73-78."
+  },
+  {
+    "compound_name": "(24R)-Pimobendan",
+    "smiles": "COc1ccc(-c2nc3cc(C4=NNC(=O)C[C@H]4C)ccc3[nH]2)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Kuriya et al., Drug Metab. Dispos., 2000, 28(1), 73-78."
+  },
+  {
+    "compound_name": "Pimozide",
+    "smiles": "O=c1[nH]c2ccccc2n1[C@H]1CC[N@H+](CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1",
+    "som_breakdown": [
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Desta et al., J. Pharmacol. Exp. Ther., 1998, 285(2), 428-437."
+  },
+  {
+    "compound_name": "PMAMC",
+    "smiles": "CCC[NH2+]Cc1cc(=O)oc2cc(OC)ccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 18,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 25,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Venhorst et al., Drug Metab. Dispos., 2000, 28(12), 1524-1532."
+  },
+  {
+    "compound_name": "Pracinostat",
+    "smiles": "CCCCc1nc2cc(/C=C/C(=O)NO)ccc2n1CC[NH+](CC)CC",
+    "som_breakdown": [
+      {
+        "atom_index": 34,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 35,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Jayaraman et al., Drug Metab. Dispos., 2011, 39(12), 2219-2232."
+  },
+  {
+    "compound_name": "(7R,10S,11S,15S,16S,18S)-Progesterone",
+    "smiles": "CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C",
+    "som_breakdown": [
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Niwa et al., Xenobiotica, 1998, 28(6), 539-547."
+  },
+  {
+    "compound_name": "Promazine",
+    "smiles": "C[NH+](C)CCCN1c2ccccc2Sc2ccccc21",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "sulphur",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Wojcikowski et al., Br. J. Pharmacol., 2009, 138(8), 1465-1474."
+  },
+  {
+    "compound_name": "(19S)-Propafenone",
+    "smiles": "CCC[NH2+]C[C@H](O)COc1ccccc1C(=O)CCc1ccccc1",
+    "som_breakdown": [
+      {
+        "atom_index": 23,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Afshar and Thormann, Electrophoresis, 2006, 27(8), 1526-1536."
+  },
+  {
+    "compound_name": "(19R)-Propafenone",
+    "smiles": "CCC[NH2+]C[C@@H](O)COc1ccccc1C(=O)CCc1ccccc1",
+    "som_breakdown": [
+      {
+        "atom_index": 23,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Afshar and Thormann, Electrophoresis, 2006, 27(8), 1526-1536."
+  },
+  {
+    "compound_name": "Propofol",
+    "smiles": "CC(C)c1cccc(C(C)C)c1O",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Guitton et al., Br. J. Anaesth., 1998, 80(6), 788-795."
+  },
+  {
+    "compound_name": "(6R)-Propranolol",
+    "smiles": "CC(C)[NH2+]C[C@@H](O)COc1cccc2ccccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Masubuchi et al., Drug Metab. Dispos., 1994, 22(6), 909-915.\nChing et al., Drug Metab. Dispos., 1996, 24(6), 692-694."
+  },
+  {
+    "compound_name": "(6S)-Propranolol",
+    "smiles": "CC(C)[NH2+]C[C@H](O)COc1cccc2ccccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Masubuchi et al., Drug Metab. Dispos., 1994, 22(6), 909-915.\nChing et al., Drug Metab. Dispos., 1996, 24(6), 692-694."
+  },
+  {
+    "compound_name": "(6R,7R,8S,9R,15S)-Prostaglandin-H2",
+    "smiles": "CCCCC[C@H](O)/C=C/[C@@H]1[C@@H](C/C=C\\CCCC(=O)[O-])[C@@H]2C[C@H]1OO2",
+    "som_breakdown": [
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 9,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Plastaras et al., J. Biol. Chem., 2000, 275(16), 11784-11790."
+  },
+  {
+    "compound_name": "PS-15",
+    "smiles": "[H]/N=C(\\NOCCCOc1cc(Cl)c(Cl)cc1Cl)NC(=[NH2+])NC(C)C",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Diaz et al., Drug Metab. Dispos., 2008, 36(2), 380-385."
+  },
+  {
+    "compound_name": "(7R)-Pulegone",
+    "smiles": "CC(C)=C1CC[C@@H](C)CC1=O",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Khojasteh-Bakht et al., Drug Metab. Dispos., 1999, 27(5), 574-580."
+  },
+  {
+    "compound_name": "PY74",
+    "smiles": "COc1cc([N+](=O)[O-])ccc1N/N=C(\\C(C)=O)C(=O)Nc1ccccc1OC",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Cui et al., Drug Metab. Dispos., 2005, 33(10), 1459-1465."
+  },
+  {
+    "compound_name": "PY74-M1",
+    "smiles": "COc1cc([N+](=O)[O-])ccc1N/N=C(\\C(C)=O)C(=O)Nc1ccc(O)cc1OC",
+    "som_breakdown": [
+      {
+        "atom_index": 25,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Cui et al., Drug Metab. Dispos., 2005, 33(10), 1459-1465."
+  },
+  {
+    "compound_name": "Pyrazoloacridine",
+    "smiles": "COc1ccc2c(c1)-c1nn(CCC[NH+](C)C)c3ccc([N+](=O)[O-])c(c13)N2",
+    "som_breakdown": [
+      {
+        "atom_index": 24,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Reid et al., Clin. Cancer Res., 2004, 10(4), 1471-1480."
+  },
+  {
+    "compound_name": "Rabeprazole-Thioether",
+    "smiles": "COCCCOc1ccnc(CSc2nc3ccccc3[nH]2)c1C",
+    "som_breakdown": [
+      {
+        "atom_index": 4,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 22,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Miura et al., Eur. J. Clin. Pharmacol., 2006, 62(2), 113-117."
+  },
+  {
+    "compound_name": "(7S)-Ramelteon",
+    "smiles": "CCC(=O)NCC[C@@H]1CCc2ccc3c(c21)CCO3",
+    "som_breakdown": [
+      {
+        "atom_index": 6,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 24,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Obach and Ryder, Drug Metab. Dispos., 2010, 38(8), 1381-1391."
+  },
+  {
+    "compound_name": "(7R)-Ramelteon",
+    "smiles": "CCC(=O)NCC[C@H]1CCc2ccc3c(c21)CCO3",
+    "som_breakdown": [
+      {
+        "atom_index": 6,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 24,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Obach and Ryder, Drug Metab. Dispos., 2010, 38(8), 1381-1391."
+  },
+  {
+    "compound_name": "Ranitidine",
+    "smiles": "CN/C(=C\\[N+](=O)[O-])NCCSCc1ccc(C[NH+](C)C)o1",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 9,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "sulphur",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Chung et al., Jpn. J. Pharmacol., 2000, 84(2), 213-220."
+  },
+  {
+    "compound_name": "Reduced-Diclofenac",
+    "smiles": "OCCc1ccccc1Nc1c(Cl)cccc1Cl",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Mancy et al., Biochemistry, 1999, 38(43), 14264-14270."
+  },
+  {
+    "compound_name": "(10R)-RHP+",
+    "smiles": "O[C@H](CCC[n+]1ccc(-c2ccc(Cl)cc2)cc1)c1ccc(F)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Fang et al., Drug Metab. Dispos., 2001, 29(12), 1638-1643."
+  },
+  {
+    "compound_name": "(10S)-RHP+",
+    "smiles": "O[C@@H](CCC[n+]1ccc(-c2ccc(Cl)cc2)cc1)c1ccc(F)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 10,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Fang et al., Drug Metab. Dispos., 2001, 29(12), 1638-1643."
+  },
+  {
+    "compound_name": "Riluzole",
+    "smiles": "Nc1nc2ccc(OC(F)(F)F)cc2s1",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Sanderink et al., J. Pharmacol. Exp. Ther., 1997, 282(3), 1465-1472."
+  },
+  {
+    "compound_name": "Ropinirole",
+    "smiles": "CCC[NH+](CCC)CCc1cccc2c1CC(=O)N2",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Bloomer et al., Drug Metab. Dispos., 1997, 25(7), 840-844."
+  },
+  {
+    "compound_name": "(11S)-Ropivacaine",
+    "smiles": "CCC[N@@H+]1CCCC[C@H]1C(=O)Nc1c(C)cccc1C",
+    "som_breakdown": [
+      {
+        "atom_index": 4,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 6,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Ekstrom and Gunnarson, Drug Metab. Dispos., 1996, 24(9), 955-961."
+  },
+  {
+    "compound_name": "(5S)-Rosiglitazone",
+    "smiles": "CN(CCOc1ccc(C[C@@H]2SC(=O)NC2=O)cc1)c1ccccn1",
+    "som_breakdown": [
+      {
+        "atom_index": 21,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 23,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 25,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Baldwin et al., Br. J. Clin. Pharma., 1999, 48(3), 424-432."
+  },
+  {
+    "compound_name": "(5R)-Rosiglitazone",
+    "smiles": "CN(CCOc1ccc(C[C@H]2SC(=O)NC2=O)cc1)c1ccccn1",
+    "som_breakdown": [
+      {
+        "atom_index": 21,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 23,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 25,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Baldwin et al., Br. J. Clin. Pharma., 1999, 48(3), 424-432."
+  },
+  {
+    "compound_name": "(6S)-RPR-127025",
+    "smiles": "NC(=O)c1c(Cl)c(-c2cccnc2)n2c1[C@@H](O)CCC2",
+    "som_breakdown": [
+      {
+        "atom_index": 6,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Bournique, B. et al., Br. J. Clin. Pharm., 2001, 52(1), 53-63"
+  },
+  {
+    "compound_name": "(6R)-RPR-127025",
+    "smiles": "NC(=O)c1c(Cl)c(-c2cccnc2)n2c1[C@H](O)CCC2",
+    "som_breakdown": [
+      {
+        "atom_index": 6,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Bournique, B. et al., Br. J. Clin. Pharm., 2001, 52(1), 53-63"
+  },
+  {
+    "compound_name": "Rutaecarpine",
+    "smiles": "O=c1c2ccccc2nc2n1CCc1c-2[nH]c2ccccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 22,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Ueng et al., Drug Metab. Dispos., 2006, 34(5), 821-827.\nLee et al., J. Pharm. Bio. Anal., 2006, 41(1), 304-309."
+  },
+  {
+    "compound_name": "(8R)-Selegiline",
+    "smiles": "C#CC[N@H+](C)[C@H](C)Cc1ccccc1",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Hidestrand et al., Drug Metab. Dispos., 2001, 29(11), 1480-1484."
+  },
+  {
+    "compound_name": "(1S,2R,4S,5R)-Sesamin",
+    "smiles": "c1cc2c(cc1[C@@H]1OC[C@@H]3[C@H]1CO[C@H]3c1ccc3c(c1)OCO3)OCO2",
+    "som_breakdown": [
+      {
+        "atom_index": 39,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 40,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Yasuda et al., Drug Metab. Dispos., 2010, 38(12), 2117-2123."
+  },
+  {
+    "compound_name": "(7S,8S)-Sertraline",
+    "smiles": "C[NH2+][C@H]1CC[C@@H](c2ccc(Cl)c(Cl)c2)c2ccccc21",
+    "som_breakdown": [
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Obach et al., Drug Metab. Dispos., 2005, 33(2), 262-270."
+  },
+  {
+    "compound_name": "Sulprofos",
+    "smiles": "CCCS[P@](=S)(OCC)Oc1ccc(SC)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 17,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Tyzack_____1A2",
+    "source_reference": "Khawja et al., Drug Metab. Dispos., 2004, 32(3), 333-339."
+  },
+  {
+    "compound_name": "Tacrine",
+    "smiles": "Nc1c2c(nc3ccccc13)CCCC2",
+    "som_breakdown": [
+      {
+        "atom_index": 3,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 4,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 7,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Spaldin et al., Drug Metab. Dispos., 1995, 23(9), 929-934."
+  },
+  {
+    "compound_name": "Tamarixetin",
+    "smiles": "COc1ccc(-c2oc3cc(O)cc(O)c3c(=O)c2O)cc1O",
+    "som_breakdown": [
+      {
+        "atom_index": 28,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Breinholt et al., Food and Chem. Tox., 2002, 40(), 609-616."
+  },
+  {
+    "compound_name": "Tamoxifen",
+    "smiles": "CC/C(=C(\\c1ccccc1)c1ccc(OCC[NH+](C)C)cc1)c1ccccc1",
+    "som_breakdown": [
+      {
+        "atom_index": 27,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 28,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Desta et al., J. Pharmacol. Exp. Ther., 310(3), 1062-1075."
+  },
+  {
+    "compound_name": "Tangeretin",
+    "smiles": "COc1ccc(-c2cc(=O)c3c(OC)c(OC)c(OC)c(OC)c3o2)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 27,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Breinholt et al., Pharmacol. Toxicol., 2003, 93(1), 14-22."
+  },
+  {
+    "compound_name": "Tangeretin-T27",
+    "smiles": "COc1c(OC)c(OC)c2c(=O)cc(-c3ccc(O)cc3)oc2c1OC",
+    "som_breakdown": [
+      {
+        "atom_index": 23,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 24,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Breinholt et al., Pharmacol. Toxicol., 2003, 93(1), 14-22."
+  },
+  {
+    "compound_name": "Tauromustine",
+    "smiles": "CN(C)S(=O)(=O)CCNC(=O)N(CCCl)N=O",
+    "som_breakdown": [
+      {
+        "atom_index": 4,
+        "atom_type": "nitrogen",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "oxygen",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 16,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 17,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Tuveson et al., Xenobiotica, 1999, 29(8), 783-792."
+  },
+  {
+    "compound_name": "(7R)-Tegafur",
+    "smiles": "O=c1[nH]c(=O)n([C@H]2CCCO2)cc1F",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Komatsu et al., Drug Metab. Dispos., 2000, 28(12), 1457-1463."
+  },
+  {
+    "compound_name": "(7S)-Tegafur",
+    "smiles": "O=c1[nH]c(=O)n([C@@H]2CCCO2)cc1F",
+    "som_breakdown": [
+      {
+        "atom_index": 7,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Komatsu et al., Drug Metab. Dispos., 2000, 28(12), 1457-1463."
+  },
+  {
+    "compound_name": "Tegaserod",
+    "smiles": "CCCCCNC(=[NH2+])N/[NH+]=C/c1c[nH]c2ccc(OC)cc12",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Vickers et al., Drug Metab. Dispos., 2001, 29(10), 1269-1276."
+  },
+  {
+    "compound_name": "Terbinafine",
+    "smiles": "C[N@H+](C/C=C/C#CC(C)(C)C)Cc1cccc2ccccc12",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 2,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 7,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 8,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 11,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 22,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Vickers et al., Drug Metab. Dispos., 1999, 27(9), 1029-1038."
+  },
+  {
+    "compound_name": "Terbuthylazine",
+    "smiles": "CCNc1nc(Cl)nc(NC(C)(C)C)n1",
+    "som_breakdown": [
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Lang et al., Chem. Res. Toxicol., 1997, 10(9), 1037-1044."
+  },
+  {
+    "compound_name": "Terbutryne",
+    "smiles": "CCNc1nc(NC(C)(C)C)nc(SC)n1",
+    "som_breakdown": [
+      {
+        "atom_index": 8,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sulphur",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Lang et al., Chem. Res. Toxicol., 1997, 10(9), 1037-1044."
+  },
+  {
+    "compound_name": "Tizanidine",
+    "smiles": "Clc1ccc2nsnc2c1NC1=NCCN1",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 6,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 14,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Additional_1A2",
+    "source_reference": "Wang and Zhou, Curr Med Chem., 2009, 16(31), 4066-218."
+  },
+  {
+    "compound_name": "TFMPP",
+    "smiles": "FC(F)(F)c1cccc(N2CC[NH2+]CC2)c1",
+    "som_breakdown": [
+      {
+        "atom_index": 9,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 10,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Staack et al., Biochem. Pharmacol., 2004, 67(2), 235-244."
+  },
+  {
+    "compound_name": "Theobromine",
+    "smiles": "Cn1cnc2c1c(=O)[nH]c(=O)n2C",
+    "som_breakdown": [
+      {
+        "atom_index": 12,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Gates and Miners, Br. J. Clin. Pharmacol., 1999, 47(3), 299-305."
+  },
+  {
+    "compound_name": "Theophylline",
+    "smiles": "Cn1c(=O)c2[nH]cnc2n(C)c1=O",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "sp3 C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 9,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "sp2 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Ha et al., Br. J. Clin. Pharmacol., 1995, 39(3), 321-326."
+  },
+  {
+    "compound_name": "Thiabendazole",
+    "smiles": "c1ccc2[nH]c(-c3cscn3)nc2c1",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Coulet et al., Fundam. Clin. Pharmacol., 1998, 12(2), 225-235."
+  },
+  {
+    "compound_name": "(27R)-Thioridazine",
+    "smiles": "CSc1ccc2c(c1)N(CC[C@H]1CCCC[N@@H+]1C)c1ccccc1S2",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 22,
+        "atom_type": "sulphur",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 34,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Wojcikowski et al., Drug Metab. Dispos., 2006, 34(3), 471-476."
+  },
+  {
+    "compound_name": "(27S)-Thioridazine",
+    "smiles": "CSc1ccc2c(c1)N(CC[C@@H]1CCCC[N@H+]1C)c1ccccc1S2",
+    "som_breakdown": [
+      {
+        "atom_index": 14,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 22,
+        "atom_type": "sulphur",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 34,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Wojcikowski et al., Drug Metab. Dispos., 2006, 34(3), 471-476."
+  },
+  {
+    "compound_name": "Ticlopidine",
+    "smiles": "Clc1ccccc1C[N@@H+]1CCc2sccc2C1",
+    "som_breakdown": [
+      {
+        "atom_index": 4,
+        "atom_type": "sulphur",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Dansette et al., Chem. Res. Toxicol., 2009, 22(2), 369-373."
+  },
+  {
+    "compound_name": "(5R)-Tolperisone",
+    "smiles": "Cc1ccc(C(=O)[C@H](C)C[NH+]2CCCCC2)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Dalmadi et al, Drug Metab. Dispos., 2003, 31(5), 631-636."
+  },
+  {
+    "compound_name": "(5S)-Tolperisone",
+    "smiles": "Cc1ccc(C(=O)[C@@H](C)C[NH+]2CCCCC2)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Dalmadi et al, Drug Metab. Dispos., 2003, 31(5), 631-636."
+  },
+  {
+    "compound_name": "Toremifene",
+    "smiles": "C[NH+](C)CCOc1ccc(/C(=C(/CCCl)c2ccccc2)c2ccccc2)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 17,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Berthou et al., Biochem. Pharmacol., 1994, 47(10), 1883-1895."
+  },
+  {
+    "compound_name": "Trans-4-Phenylbut-3-en-2-one",
+    "smiles": "CC(=O)/C=C/c1ccccc1",
+    "som_breakdown": [
+      {
+        "atom_index": 9,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Kohno et al., Drug Metab. Dispos., 2005, 33(8), 1115-1123."
+  },
+  {
+    "compound_name": "Triamterene",
+    "smiles": "Nc1nc(N)c2nc(-c3ccccc3)c(N)nc2n1",
+    "som_breakdown": [
+      {
+        "atom_index": 1,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Fuhr et al., Int. J. Clin. Pharmacol. Ther., 2005, 43(7), 327-334."
+  },
+  {
+    "compound_name": "(7S,25S)-Troglitazone",
+    "smiles": "Cc1c(C)c2c(c(C)c1O)CC[C@@](C)(COc1ccc(C[C@@H]3SC(=O)NC3=O)cc1)O2",
+    "som_breakdown": [
+      {
+        "atom_index": 16,
+        "atom_type": "oxygen",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 25,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 27,
+        "atom_type": "sulphur",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "He et al., Drug Metab. Dispos., 2004, 32(6), 639-646.\nHe et al., Drug Metab. Dispos., 2004, 32(6), 442-446.\nYamazaki et al., Drug Metab. Dispos., 1999, 27(11), 1260-1266."
+  },
+  {
+    "compound_name": "(7S,25R)-Troglitazone",
+    "smiles": "Cc1c(C)c2c(c(C)c1O)CC[C@@](C)(COc1ccc(C[C@H]3SC(=O)NC3=O)cc1)O2",
+    "som_breakdown": [
+      {
+        "atom_index": 16,
+        "atom_type": "oxygen",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 25,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 27,
+        "atom_type": "sulphur",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "He et al., Drug Metab. Dispos., 2004, 32(6), 639-646.\nHe et al., Drug Metab. Dispos., 2004, 32(6), 442-446.\nYamazaki et al., Drug Metab. Dispos., 1999, 27(11), 1260-1266."
+  },
+  {
+    "compound_name": "(7R,25R)-Troglitazone",
+    "smiles": "Cc1c(C)c2c(c(C)c1O)CC[C@](C)(COc1ccc(C[C@H]3SC(=O)NC3=O)cc1)O2",
+    "som_breakdown": [
+      {
+        "atom_index": 16,
+        "atom_type": "oxygen",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 25,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 27,
+        "atom_type": "sulphur",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "He et al., Drug Metab. Dispos., 2004, 32(6), 639-646.\nHe et al., Drug Metab. Dispos., 2004, 32(6), 442-446.\nYamazaki et al., Drug Metab. Dispos., 1999, 27(11), 1260-1266."
+  },
+  {
+    "compound_name": "(7R,25S)-Troglitazone",
+    "smiles": "Cc1c(C)c2c(c(C)c1O)CC[C@](C)(COc1ccc(C[C@@H]3SC(=O)NC3=O)cc1)O2",
+    "som_breakdown": [
+      {
+        "atom_index": 16,
+        "atom_type": "oxygen",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 25,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 27,
+        "atom_type": "sulphur",
+        "classification": "secondary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "He et al., Drug Metab. Dispos., 2004, 32(6), 639-646.\nHe et al., Drug Metab. Dispos., 2004, 32(6), 442-446.\nYamazaki et al., Drug Metab. Dispos., 1999, 27(11), 1260-1266."
+  },
+  {
+    "compound_name": "(20R)-Verapamil",
+    "smiles": "COc1ccc(CC[N@H+](C)CCC[C@](C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 25,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Kroemer et al., Naunyn Schmiedebergs Arch. Pharmacol., 1993, 348(3), 332-337."
+  },
+  {
+    "compound_name": "(20S)-Verapamil",
+    "smiles": "COc1ccc(CC[N@H+](C)CCC[C@@](C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC",
+    "som_breakdown": [
+      {
+        "atom_index": 13,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 25,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Kroemer et al., Naunyn Schmiedebergs Arch. Pharmacol., 1993, 348(3), 332-337."
+  },
+  {
+    "compound_name": "(2R)-Warfarin",
+    "smiles": "CC(=O)C[C@H](c1ccccc1)c1c(O)c2ccccc2oc1=O",
+    "som_breakdown": [
+      {
+        "atom_index": 20,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Zhang et al., Drug Metab. Dispos., 1995, 23(12), 1339-1346."
+  },
+  {
+    "compound_name": "(2S)-Zileuton",
+    "smiles": "C[C@@H](c1cc2ccccc2s1)N(O)C(N)=O",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 16,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Machinist et al., Drug Metab. Dispos., 1995, 23(10), 1163-1174."
+  },
+  {
+    "compound_name": "(2R)-Zileuton",
+    "smiles": "C[C@H](c1cc2ccccc2s1)N(O)C(N)=O",
+    "som_breakdown": [
+      {
+        "atom_index": 11,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 12,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 15,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 16,
+        "atom_type": "aromatic C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Machinist et al., Drug Metab. Dispos., 1995, 23(10), 1163-1174."
+  },
+  {
+    "compound_name": "(6S)-Zolmitriptan",
+    "smiles": "C[NH+](C)CCc1c[nH]c2ccc(C[C@H]3COC(=O)N3)cc12",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "nitrogen",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 20,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "Wild et al., Xenobiotica, 1999, 29(8), 847-857."
+  },
+  {
+    "compound_name": "Zolpidem",
+    "smiles": "Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1",
+    "som_breakdown": [
+      {
+        "atom_index": 19,
+        "atom_type": "sp3 C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 23,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Moitessier_1A2",
+    "source_reference": "van Moltke et al., Br. J. Clin. Pharm., 1999, 48(1), 89-97."
+  },
+  {
+    "compound_name": "Zotepine",
+    "smiles": "C[NH+](C)CCOC1=Cc2ccccc2Sc2ccc(Cl)cc21",
+    "som_breakdown": [
+      {
+        "atom_index": 5,
+        "atom_type": "sulphur",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 18,
+        "atom_type": "aromatic C",
+        "classification": "tertiary"
+      },
+      {
+        "atom_index": 19,
+        "atom_type": "aromatic C",
+        "classification": "secondary"
+      },
+      {
+        "atom_index": 21,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      },
+      {
+        "atom_index": 22,
+        "atom_type": "sp3 C",
+        "classification": "primary"
+      }
+    ],
+    "source_dataset": "Swamidass__1A2",
+    "source_reference": "Shiraga et al., Xenobiotica, 1999, 29(3), 217-229."
+  }
+]
